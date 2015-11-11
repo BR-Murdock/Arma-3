@@ -12,6 +12,7 @@ To Do:
 - Bounty
 - nearest Car
 - unlock all buildings [radius] for admin
+- Backpack on Front: http://www.armaholic.com/page.php?id=24529
 
 Kritik an Wasteland
 -	Titan Raketenwerfer OP, keine abschließbare Truhen/Häuser, nice to have: interessantere Missionen, schwerere KI
