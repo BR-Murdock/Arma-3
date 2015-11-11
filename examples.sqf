@@ -1,6 +1,10 @@
 https://github.com/A3Wasteland/ArmA3_Wasteland.Altis		//Wasteland Missionsdateien
 https://community.bistudio.com/wiki/Main_Page		//Skript-Wiki
 
+OPEN SCRIPT: 
+yourbargatename animate ["Door_1_rot", 1]
+CLOSED SCRIPT:
+yourbargatename animate ["Door_1_rot", 0].
 
 
 // Store settings
