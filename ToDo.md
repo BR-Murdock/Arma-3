@@ -14,6 +14,7 @@ To Do:
 - unlock all buildings [radius] for admin
 - Backpack on Front: http://www.armaholic.com/page.php?id=24529
 - Helikopter Taxi inklusive Kosten nach Enternung: https://board.nitrado.net/support-de-german-only/support-gameserver/arma/tutorials-releases/77264/arma-3-helikopter-taxi-erstellen/
+- http://www.armaholic.com/page.php?id=12141
  
 
 Kritik an Wasteland
