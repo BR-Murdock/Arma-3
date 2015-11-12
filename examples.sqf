@@ -1,6 +1,9 @@
 https://github.com/A3Wasteland/ArmA3_Wasteland.Altis		//Wasteland Missionsdateien
 https://community.bistudio.com/wiki/Main_Page		//Skript-Wiki
 
+http://www.armaholic.com/page.php?id=25458 //Para Drop
+
+
 OPEN SCRIPT: 
 yourbargatename animate ["Door_1_rot", 1]
 CLOSED SCRIPT:
