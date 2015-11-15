@@ -5,6 +5,8 @@
 https://community.bistudio.com/wiki/Category:Scripting_Commands_ArmA
 https://community.bistudio.com/wiki/Category:Arma_3:_New_Scripting_Commands_List
 
+Arsenal:
+0 = ["AmmoboxInit",[this,true]] spawn BIS_fnc_arsenal;
 
 // Kommentar
 /*  */ Kommentarblock
