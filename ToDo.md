@@ -5,7 +5,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=375157494
 
 
 To Do:
-
+-	Kopfgeld auf einen Spieler...
 -	MarketStoreStatus und MarketStoreIntruderWarning
 
 -	Abschließbare Truhen oder Häuser
