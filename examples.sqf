@@ -2,7 +2,7 @@ https://github.com/A3Wasteland/ArmA3_Wasteland.Altis		//Wasteland Missionsdateie
 https://community.bistudio.com/wiki/Main_Page		//Skript-Wiki
 
 http://www.armaholic.com/page.php?id=25458 //Para Drop
-
+https://github.com/MayhemServers/MAYHEM_A3Wasteland.Altis //AirDrop und andere
 
 OPEN SCRIPT: 
 yourbargatename animate ["Door_1_rot", 1]
