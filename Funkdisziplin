@@ -15,36 +15,64 @@ o	Abschluss
 	Jeder Funkspruch endet mit „Kommen“ (englisch: „over“). Das Ende des Gesprächs wird nur von dem initialen Absender mit „Ende“ (englisch: „out“) gekennzeichnet. 
 Wie umfangreich der Funkspruch und wie sehr man sich an die Regeln hält, hängt von der Situation ab. 
 
+Nach JeremiahRose gibt es drei Kategorien, die ich sehr passend finde und einfach mal als Zitate einfüge. Je nach Spielweise und Vorlieben, kann man sich denke ich im Vorhinein auf eine Kategorie entscheiden oder je nach Situation ändern.
+
+Kategorie I, präzise und langsam
+"Brain hier Rhino, kommen"
+"Rhino hier Brain, sprechen sie, kommen"
+"Brain hier Rhino, haben Feindkontakt mit Infanterie 2 Kilometer südlich unserer Position, kommen"
+"Rhino hier Brain, verstanden, Position halten, kommen"
+"Brain hier Rhino, verstanden, Ende"
+-für Funkfetischisten
+-umfangreiche Missionen
+-hohe Übertragungssicherheit
+
+Kategorie II, genau und zügig
+"Brain hier Rhino, kommen"
+"Brain hört"
+"Brain, wir haben Infanteriekontakt 2 Kilometer südlich, kommen"
+"Rhino, verstanden, Position halten, Ende"
+-für mittlere Missionen
+
+Kategorie III, undeutlich und schnell
+"Brain hier Rhino, wir haben Infanterie 2 klicks südlich unserer Position, kommen"
+"Brain hier Rhino, verstanden, Position halten, Ende"
+
 Keine akute Gefahr:
 Gespräche im eigenen Trupp (Fireteam) können auch ohne Funkdisziplin und gegebenenfalls (bei Nutzung von TFAR oder dem Arma eigenen Voice-over-Net) auch ohne Nutzung des Funkgeräts erfolgen. Hierbei muss auch keine Funkdisziplin eingehalten werden, jedoch steht es dem Truppführer zu eine Funk-/Gesprächsruhe anzuordnen, wenn er zum Beispiel mit einem anderen Trupp funkt. 
 Gespräche zwischen zwei Trupps werden über Funk gehalten, es sei denn alle Teilnehmer befinden sich an einem Ort. Hierbei gilt die Regeln zur Funkdisziplin einzuhalten. 
 
 Sichtung:
 Beim Melden von feindlichen Einheiten oder anderen wichtigen Entdeckungen, ist darauf zu achten, dass klar ist, wem gemeldet wird, wer meldet, was gesehen wurde und wo es gesehen wurde. Ein Beispiel:
-„Commander, hier Feuertrupp Zwo. Straßensperre 500m nördlich von unserer Position gesichtet“
+„Commander, hier Bravo. Straßensperre 500m nördlich von unserer Position gesichtet. Kommen“
 Ein Empfänger kann auch offen bleiben, wenn die Meldung an alle Einheiten geht.
+Für das eigene Team oder wenn es etwas dringender ist, sollte die Sichtung folgendermaßen gemeldet werden:
+Alarm - Orientierung - Beschreibung - Erklärung
+"Kontakt, Richtung 0-3-5, Panzer, fährt in die Stadt"
 
 Unter Beschuss:
 Wenn Beschuss gemeldet wird, sind folgende Informationen wichtig: Wer wird beschossen, von wo wird geschossen und mit was wird geschossen.  Angehängt kann noch werden, wie die eigene Reaktion aussieht.
 Wenn es die Situation erlaubt, ist der ideale Funkspruch also ungefähr:
 „Hier Murdock, unter Beschuss von Norden, Maschinengewehr, erwidere Feuer“
-Wenn es schnell gehen muss reicht auch einfach: „Beschuss“
+Wenn es schnell gehen muss, reicht auch einfach: „Beschuss“
 Damit können Kameraden in Deckung gehen oder Ausschau halten, es sollte jedoch so schnell wie möglich die fehlenden Informationen nachgeliefert werden.
 
 NATO Buchstabiertafel:
-A – Alfa	N – November	1 – One / Eins
-B – Bravo	O – Oscar	2 – Two / Zwo
-C – Charlie	P – Papa	3 – Tree / Drei
-D – Delta	Q – Quebec	4 – Four / Vier
-E – Echo	R – Romeo	5 – Five / Fünf
-F – Foxtrott	S – Sierra	6 – Six / Sechs
-G – Golf	T – Tango	7 – Seven / Sieben
-H – Hotel	U – Uniform	8 – Eight / Acht
-I – India	V – Victor	9 – Niner / Nein
-J – Juliet	W – Whiskey	0 – Zero / Null
-K – Kilo	X – X-Ray	
-L – Lima	Y – Yankee	
-M - Mike	Z - Zulu	
+A – Alfa	    N – November	  1 – One / Eins
+B – Bravo	    O – Oscar	      2 – Two / Zwo
+C – Charlie	  P – Papa  	    3 – Tree / Drei
+D – Delta	    Q – Quebec	    4 – Four / Vier
+E – Echo	    R – Romeo	      5 – Five / Fünf
+F – Foxtrott	S – Sierra	    6 – Six / Sechs
+G – Golf	    T – Tango	      7 – Seven / Sieben
+H – Hotel	    U – Uniform	    8 – Eight / Acht
+I – India	    V – Victor	    9 – Niner / Nein
+J – Juliet	  W – Whiskey	    0 – Zero / Null
+K – Kilo	    X – X-Ray	
+L – Lima	    Y – Yankee	
+M - Mike	    Z - Zulu	
+
+Mehrstellige Zahlen (Richtung 140) werden als einzelne Zahlen gefunkt. Also Richtung Eins Vier Null.
 
 Brevity Code:
 Eine Sammlung von Begriffen, die für komplexere Informationen benutzt werden.
