@@ -1,0 +1,30 @@
+Konzept für Projekt Genesis
+
+Hintergrund
+Auf der griechischen Insel Altis wurden Vorkommen von Diamant/Uran/Öl gefunden. Die Russen marschieren ein, um sich diese Vorkommen zu sichern. Das Militär von Altis ist in zwei Gruppen unterteilt. Die AAF bildet den größten Teil. Die Widerstandsgruppe der FIA hat sich von der AAF abgespalten um ein freies Altis zu erhalten. Um die zivile Bevölkerung zu schützen, zu verhindern dass die Russen sich die Vorkommen sichern und um selbst die Vorkommen zu nutzen, greift die USA ein.
+Karte und Aufbau
+Russen (rot) haben ihre Basis in der Burg von Kavala.
+USA (blau) haben ihre Basis im Nordosten am Flugplatz.
+AAF (gelb) besetzt den Großteil der Insel. Hauptbasis am Hauptflugplatz.
+FIA (grün) besetzt den Südosten, Hauptbasis beim Flugplatz bei Selekano.
+ 
+Mods
+-	Alive (Module für die Missionserstellung)
+o	Dynamische Missionen (allerlei Arten, mehr als bei Antistasi)
+o	Respawnsystem per Fahrzeug/Hubschrauber/Fallschirmsprung
+o	Militärischer Nachrichtendienst inkl. Berichten (Sitrep, Patrolrep, Spotrep) und Geheimhaltungsstufen
+o	Logistikunterstützung mit Fahrzeuglieferung, Munitionslieferung, Close-Air-Support, Transport
+o	KI Commander der jeweiligen Fraktionen, die priorisierend Missionen an KI verteilen
+o	Verbesserter Städtekampf
+-	RHS Escalation (USA und Russen: Waffen, Uniformen, Fahrzeuge)
+-	TFAR
+-	CBA (wird von anderen Mods benötigt)
+-	ACE 3
+o	verbessertes medizinisches System (Bandagen, Morphium, Epinephrin, Blutbeutel)
+o	Erweiterte Ballistik nur für Scharfschützen (Wind etc.)
+-	Optional: JSRS (Soundverbesserung)
+-	Optional: ASR AI 3 (KI-Verbesserung, wenn die KI von Alive nicht herausfordernd genug ist, können wir das damit ändern)
+Ablauf
+Nach dem Erstellen der Mission und einiger Testspiele inklusive Verbesserung der Mission kann die eigentliche Kampagne gestartet werden. 
+Die Russen und die USA breiten sich aus (Spieler sollen, wenn möglich, sich entscheiden können, wo sie mitspielen). Die Spieler übernehmen keine fraktionsweite Kommandorolle sondern erhalten von dem KI Kommandant ihre Befehle bzw. können sich ihre Missionen selbst legen. Eigene KI Teams sollten möglich sein.
+Wenn besondere Situationen eintreffen, wird die Missionsdatei verändert werden. Zum Beispiel wenn eine Fraktion (USA/Russen) sich soweit ausgebreitet haben, dass sie ein größeres Hauptquartier an einer anderen Position aufbauen würden. Das wird dann im Editor erledigt, Basis wird gebaut, HQ wird dorthin verlegt und es kann weitergespielt werden. So wird eine zeitliche Entwicklung eingebaut und ein dynamisches, sandbox ähnliches Verändern der Insel gewährleistet.
