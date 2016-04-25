@@ -1,0 +1,5 @@
+//Remove vehicle thermal imaging
+private "_veh";
+_veh = _this select 0;
+_veh disableTIEquipment true;
+
