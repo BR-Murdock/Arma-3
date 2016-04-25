@@ -3,3 +3,12 @@ private "_veh";
 _veh = _this select 0;
 _veh disableTIEquipment true;
 
+//Alive staticData.sqf integrieren in init.sqf, überschreibt default data, script/staticData.sqf
+if(isServer) then {
+  ["MISSION INIT - Waiting"] call ALIVE_fnc_dump;
+  waitUntil {!isNil "ALiVE_STATIC_DATA_LOADED"};
+  ["MISSION INIT - Continue"] call ALIVE_fnc_dump;
+  call compile (preprocessFileLineNumbers "scripts\staticData.sqf");
+  ["MISSION INIT - Static data override loaded"] call ALIVE_fnc_dump;
+};
+
