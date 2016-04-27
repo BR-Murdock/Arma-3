@@ -3,7 +3,7 @@ private "_veh";
 _veh = _this select 0;
 _veh disableTIEquipment true;
 
-//Alive staticData.sqf integrieren in init.sqf, überschreibt default data, script/staticData.sqf
+//Alive staticData.sqf integrated in init.sqf, overwrites the default data, script/staticData.sqf
 if(isServer) then {
   ["MISSION INIT - Waiting"] call ALIVE_fnc_dump;
   waitUntil {!isNil "ALiVE_STATIC_DATA_LOADED"};
@@ -12,3 +12,34 @@ if(isServer) then {
   ["MISSION INIT - Static data override loaded"] call ALIVE_fnc_dump;
 };
 
+//ACE Event for adding markers and shoutouts to fallen player
+if hasInterface then {
+
+    ["medical_drawMarker", {
+        params ["_unit", "_status", "_markerName"];
+        if !([player] call ace_medical_fnc_isMedic) exitWith {};
+        if _status then {
+            private _marker = createMarkerLocal ["_markerName",(getPosWorld _unit)];
+            _marker setMarkerType "ICON";
+            _marker setMarkerIcon "Triangle";
+            _marker setMarkerText (name _unit);
+        } else {
+            deleteMarker _markerName;
+        };
+    }] call ace_common_fnc_addEventHandler;
+...
+if _status then {
+        private _marker = createMarkerLocal ["_markerName",(getPosWorld _unit)];
+        _marker setMarkerType "ICON";
+        _marker setMarkerIcon "Triangle";
+        _marker setMarkerText (name _unit);
+        hint format ["%1 is down!", (name _unit)];
+} else { 
+...
+
+    ["medical_onUnconscious", {
+        params ["_unit", "_status"];
+        ["medical_drawMarker", [_unit, _status, ((name _unit) + "uncon")]] call ace_common_fnc_globalEvent;
+    }] call ace_common_fnc_addEventhandler;
+
+};
